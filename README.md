@@ -1,1 +1,0 @@
-# mipi_alliance_docs
